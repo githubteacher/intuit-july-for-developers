@@ -4,4 +4,4 @@
 
 ### Local Attractions
 
-### Silicon Valley Companies
+### Silicon Valley Companies in Bay Area
