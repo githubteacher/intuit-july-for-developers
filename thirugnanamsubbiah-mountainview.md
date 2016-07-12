@@ -2,6 +2,7 @@
 
 ### Restaurants
 - Peacock
+- Banana Leaf
 
 ### Local Attractions
 
