@@ -1,10 +1,14 @@
-# Woodland Hills, CA
+# Woodland Hills, California
 
 ### Restaurants
+- Sushi Oaks
+- Something Fishy
 
 ### Local Attractions
+- Thosand Oaks mall
+- West Field Topanga mall
 
 ### Attractions
+- Universal Studio
+- Disney Land 
 
-- Lego Land is just about an hour away from Orlando
-- Disney Cruises depart from Cape Canaveral, it's just a couple of hours away from Orlando!
