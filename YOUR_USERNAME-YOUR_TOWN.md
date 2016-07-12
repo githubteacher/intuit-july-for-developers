@@ -2,7 +2,13 @@
 
 ### Restaurants
 
+- The Pharmacy
+- Rocco's Tacos
+
 ### Local Attractions
+
+- Disney World
+- Universal Studios Orlando
 
 ### Attractions that require driving
 
